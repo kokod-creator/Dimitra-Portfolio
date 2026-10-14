@@ -176,5 +176,7 @@ Yes, I want my website to work well on both computers and mobile devices\. I’l
 ## External Resources
 
 **GitHub Repository:** https://github\.com/kokod\-creator/Dimitra\-Portfolio
+
 **Live Portfolio Website:** https://kokod\-creator\.github\.io/Dimitra\-Portfolio/
+
 **Design Inspiration:** https://www\.apple\.com/
