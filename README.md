@@ -3,8 +3,11 @@
 ## Web Design Document
 
 **Project:** Personal Portfolio Website
+
 **Name:** Dimitra Kokonis
+
 **GitHub Repository:** https://github\.com/kokod\-creator/Dimitra\-Portfolio
+
 **Live Website:** https://kokod\-creator\.github\.io/Dimitra\-Portfolio/
 
 ## 1\. Project Overview
